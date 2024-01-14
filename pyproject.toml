@@ -6,7 +6,8 @@ authors = ["Matheus Costa <matheeusferreeira@hotmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.11"
+pre-commit = "^3.6.0"
 
 
 [build-system]
